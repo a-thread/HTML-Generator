@@ -1,17 +1,17 @@
 
-# Team Page Generator 
+# HTML Generator 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
     
 ### Description
 
-A Node.js command-line application built using TDD that generates a polished HTML file containing a Team Profile. Using prompts in the command-line, the user will provide information about each team member to propogate an HTML file that displays a nicely formatted team roster based on the information provided by the user.
+**HTML Generator** is a Node.js command-line application built using Test Driven Technology. This application uses prompts in the command-line to create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
 ---
 
 #### Table of Contents
 - [Description](#description)
-- [Installation](#installation)
 - [User Story](#user)
+- [Installation](#installation)
 - [Tests](#tests)
 - [Technologies Used](#technologies)
 - [License](#license)
