@@ -10,9 +10,24 @@ const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 const render = require("./lib/htmlRenderer");
 
+// function prompting user to answer questions in array
+const employees = [];
 
 // Write code to use inquirer to gather information about the development team members,
 // and to create objects for each team member (using the correct classes as blueprints!)
+const prompUser() => {
+
+}
+// async function init() {
+//     // welcoming user
+//     console.log("Hi there! Welcome to Aiden's Team Page Generator. Please follow the prompts to generate an html file displaying your team!")
+//     try {
+//         const managerAnswers = await prompManager();
+//     } catch (err) {
+//         console.log(err);
+//     }
+// }
+
 
 // After the user has input all employees desired, call the `render` function (required
 // above) and pass in an array containing all employee objects; the `render` function will
