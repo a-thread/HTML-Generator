@@ -6,7 +6,7 @@
     
 ### Description
 
-**HTML Generator** is a Node.js command-line application built using Test Driven Technology. This application uses prompts in the command-line to create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
+**HTML Generator** is a ommand-line application built using Test Driven Technology. This application utilizes prompts in the command-line to create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
 ---
 
