@@ -1,6 +1,8 @@
 
 # HTML Generator 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+![Photo of command-line prompts](./assets/demo.png)
     
 ### Description
 
@@ -13,6 +15,7 @@
 - [User Story](#user)
 - [Installation](#installation)
 - [Tests](#tests)
+- [Demo](#demo)
 - [Technologies Used](#technologies)
 - [License](#license)
 - [Contributing](#contributing)
@@ -36,9 +39,15 @@ In the command line, run: ``` npm install ```.
 
 In the command line, run: ``` npm run test ```.
 
+### Demo
+
+![Gif of Full Demo](./assets/demo.gif)
+
 ### Technologies Used
 
 - Node.js
+- Bootstrap
+- JSON
 
 ### License
 This project is licensed under MIT. 
