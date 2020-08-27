@@ -1,6 +1,6 @@
 
 # HTML Generator 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ![Photo of command-line prompts](./assets/demo.png)
     
@@ -43,19 +43,21 @@ In the command line, run: ``` npm run test ```.
 
 ![Gif of Full Demo](./assets/demo.gif)
 
+> ***To see a full demo, [click here!](https://www.youtube.com/watch?v=FLKtLFQwNlI&feature=youtu.be)***
+
 ### Technologies Used
 
 - Node.js
 - Bootstrap
 - JSON
 
-### License
+#### License
 This project is licensed under MIT. 
 
-### Contributing
+#### Contributing
 If you'd like to contribute to this application, feel free to submit a pull request.
 
-### Questions
+#### Questions
     
 If you have any questions, please [email me.](mailto:aiden.threadgoode@gmail.com)
 If you'd like to see more of my work, feel free to check out [my github!](https://github.com/a-thread)
