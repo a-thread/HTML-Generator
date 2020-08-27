@@ -1,6 +1,6 @@
 
 # HTML Generator 
-![License: MIT](https://img.shields.io/github/license/a-thread/HTML-Generator?style=for-the-badge
+![License: MIT](https://img.shields.io/github/license/a-thread/HTML-Generator?style=for-the-badge)
 
 ![Photo of command-line prompts](./assets/demo.png)
     
