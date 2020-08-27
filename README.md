@@ -48,6 +48,9 @@ In the command line, run: ``` npm run test ```.
 ### Technologies Used
 
 - Node.js
+- NPM
+- Inquirer
+- Jest
 - Bootstrap
 - JSON
 
