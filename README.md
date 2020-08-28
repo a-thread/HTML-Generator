@@ -41,7 +41,7 @@ In the command line, run: ``` npm run test ```.
 
 ### Demo
 
-![Gif of Full Demo](./assets/demo.gif)
+![Gif of Full Demo](./assets/full-demo.gif)
 
 > ***To see a full demo, [click here!](https://youtu.be/aHkJakCZwB8)***
 
