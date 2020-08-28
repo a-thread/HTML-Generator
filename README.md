@@ -43,7 +43,7 @@ In the command line, run: ``` npm run test ```.
 
 ![Gif of Full Demo](./assets/demo.gif)
 
-> ***To see a full demo, [click here!](https://www.youtube.com/watch?v=FLKtLFQwNlI&feature=youtu.be)***
+> ***To see a full demo, [click here!](https://youtu.be/aHkJakCZwB8)***
 
 ### Technologies Used
 
