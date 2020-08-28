@@ -6,7 +6,7 @@
     
 ### Description
 
-**HTML Generator** is a ommand-line application built using Test Driven Technology. This application utilizes prompts in the command-line to create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
+Built using TDD, **HTML Generator** is a software engineering team generator command line application. The application prompts the user for intormation about each team member, a mix of engineers and interns. When the user is finished building their team, the application will generate an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 
 ---
 
