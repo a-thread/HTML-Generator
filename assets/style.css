@@ -32,6 +32,7 @@ h1.team-title {
 div.team-area {
     display: flex;
     flex-wrap: wrap;
+    padding-top: 2rem;
 }
 
 h3 {
@@ -43,7 +44,7 @@ div.list-group {
     text-align: left;
 }
 
-/* Animation */
+/* Animation https://codepen.io/goodkatz/pen/LYPGxQz */
 
 .waves {
     position: relative;
@@ -96,9 +97,16 @@ div.list-group {
         min-height: 40px;
     }
     .content {
-        height: 30vh;
+        height: 40vh;
     }
     h1 {
         font-size: 24px;
+    }
+    .team-area {
+        display: flex;
+        flex-direction: column;
+    }
+    div.card {
+        max-height: fit-content;
     }
 }

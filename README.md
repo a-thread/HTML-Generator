@@ -18,7 +18,7 @@ Built using TDD, **HTML Generator** is a software engineering team generator com
 - [Demo](#demo)
 - [Technologies Used](#technologies)
 - [License](#license)
-- [Contributing](#contributing)
+- [Sources](#sources)
 - [Questions](#questions)
 
 ---
@@ -54,11 +54,13 @@ In the command line, run: ``` npm run test ```.
 - Bootstrap
 - JSON
 
+#### Sources
+Simple waves styling provided by [Goodkatz!](https://codepen.io/goodkatz/pen/LYPGxQz)
+
+![Demo of Waves](./assets/team-page.gif)
+
 #### License
 This project is licensed under MIT. 
-
-#### Contributing
-If you'd like to contribute to this application, feel free to submit a pull request.
 
 #### Questions
     
