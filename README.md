@@ -17,8 +17,8 @@ Built using TDD, **HTML Generator** is a software engineering team generator com
 - [Tests](#tests)
 - [Demo](#demo)
 - [Technologies Used](#technologies)
-- [License](#license)
 - [Sources](#sources)
+- [License](#license)
 - [Questions](#questions)
 
 ---
