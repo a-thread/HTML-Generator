@@ -4,11 +4,11 @@ const path = require("path");
 const fs = require("fs");
 
 // js file requirements
-const Manager = require("./lib/Manager");
-const Engineer = require("./lib/Engineer");
-const Intern = require("./lib/Intern");
-const questions = require("./lib/questions");
-const render = require("./lib/htmlRenderer");
+const Manager = require("./assets/js/Manager");
+const Engineer = require("./assets/js/Engineer");
+const Intern = require("./assets/js/Intern");
+const questions = require("./assets/js/questions");
+const render = require("./assets/js/htmlRenderer");
 
 // output variables
 const OUTPUT_DIR = path.resolve(__dirname, "output");
